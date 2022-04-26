@@ -1,0 +1,7 @@
+mndy
+tuesdy
+wed
+thu
+frdy
+sat
+sun
